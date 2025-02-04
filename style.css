@@ -136,7 +136,7 @@
 
 .hero .left p {
     font-family: cursive;
-    font-size: 22px;
+    font-size: 32px;
     margin-left: 16px;
     margin-top: -163px;
     word-spacing: 5px;
@@ -159,7 +159,7 @@
     filter: drop-shadow(5px 5px 10px rgba(0, 0, 0, 0.3));
     border: 3px solid #d1d1d1;
     border-radius: 8px;
-    margin-left: 18px;
+    margin-left: 28px;
 }
 #skillstitle {
     margin-left: 77px;
